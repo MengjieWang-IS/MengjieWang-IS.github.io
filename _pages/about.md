@@ -13,12 +13,14 @@ Before beginning my doctoral studies, I earned an M.S. in Statistics from the Un
 
 I am currently on the 2025–2026 academic job market and seeking a tenure-track position as an Assistant Professor in Management Information Systems or related fields.
 
-  
+<br><br>
+
 Research Interests
 ======
 - **Topics**: Digital Platforms Strategy, Creator Economy, Influencer Marketing, Livestreaming, and E-commerce
 - **Methodologies**: Causal Inference, Field and Lab Experiments, Structural Model, and Machine Learning
 
+<br><br>
 
 Working Papers
 ======
