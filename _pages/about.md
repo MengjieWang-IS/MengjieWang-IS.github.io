@@ -35,7 +35,7 @@ Teaching
 ### Guest Instructor, UC San Diego:
 - MGTF 495: Special Topics - Data Science for Finance, Spring 2021, 2022
 
-Taught the hands-on coding portion (~30 minutes) of each lecture. Developed and delivered interactive Jupyter Notebooks, coding examples, and technical notes covering SQL, Python, and machine learning techniques for financial applications. Responsibilities included designing instructional materials, live demonstrations, and guiding students through real-world data science workflows in finance.
+> Taught the hands-on coding portion (~30 minutes) of each lecture. Developed and delivered interactive Jupyter Notebooks, coding examples, and technical notes covering SQL, Python, and machine learning techniques for financial applications. Responsibilities included designing instructional materials, live demonstrations, and guiding students through real-world data science workflows in finance.
 
 
 ### Teaching Assistant, UC San Diego:
