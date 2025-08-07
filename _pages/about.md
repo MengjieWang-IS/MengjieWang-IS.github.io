@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a Ph.D. candidate in Information, Technology, and Operations Management (with a concentration in MIS) at the Rady School of Management, University of California, San Diego. My research focuses on digital platforms, with particular interest in the creator economy, influencer marketing, livestreaming, and e-commerce. I use a combination of causal inference methods, field and lab experiments, and machine learning techniques to study how information disclosure and platform design influence user behavior and outcomes across creators, consumers, and advertisers.
+
+Before beginning my doctoral studies, I earned an M.S. in Statistics from the University of Illinois Urbana-Champaign and worked as a full-time data scientist in the U.S. for two years. I also completed two research-based summer internships as an Economist at Amazon, experiences that continue to inform both my research and teaching. My industry background positions me well to teach data-driven courses at both undergraduate and Master’s levels in business schools.
+
+I am currently on the 2025–2026 academic job market and seeking a tenure-track position as an assistant professor in Information Systems or related fields.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
