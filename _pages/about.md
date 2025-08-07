@@ -24,13 +24,31 @@ Research Interests
 
 Working Papers
 ======
-- When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming (with Zhe Zhang), ***MIS Quarterly, Major Revision***, *under revision for 2nd round review*.
-- Collaboration Incentives: Empirical Insights for Livestreaming Platform (with Zhe Zhang), *data analysis and draft in progress*.
-- Return Rate Disclosure: Empirical Insights for E-commerce Platform (with Zhe Zhang), *data analysis in progress*.
+- When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming, with Zhe Zhang, ***MIS Quarterly, Major Revision***, *under revision for 2nd round review*.
+- Collaboration Incentives: Empirical Insights for Livestreaming Platform, with Zhe Zhang, *data analysis and draft in progress*.
+- Return Rate Disclosure: Empirical Insights for E-commerce Platform, with Zhe Zhang, *data analysis in progress*.
+
+<br><br>
+
+Teaching
+======
+### Guest Instructor, UC San Diego:
+- MGTF 495: Special Topics in Finance - Data Science for Finance Using Python, Spring 2021
+- MGTF 495: Special Topics - Data Science for Finance II, Spring 2022
+
+Taught the hands-on coding portion (~30 minutes) of each lecture. Developed and delivered interactive Jupyter Notebooks, coding examples, and technical notes covering SQL, Python, and machine learning techniques for financial applications. Responsibilities included designing instructional materials, live demonstrations, and guiding students through real-world data science workflows in finance.
 
 
+### Teaching Assistant, UC San Diego:
+- MGT 403: Quantitative Analysis, Fall 2020, 2021, 2022, 2023, 2024
+- MGTF 495: Special Topics - Data Science for Finance Using Python, Spring 2021
+- MGTF 495: Special Topics - Data Science for Finance II, Spring 2022
+- MGTA 495: Special Topics - Web Data Analytics, Summer 2021
+- MGT 495: Math and Programming for Business Analytics, Summer 2022
+- MGT 451/MGT 127: Technology-Innovation Strategy, Summer 2021, Winter 2021, 2022, 2023
+- MGT 119: Topics in Business - Innovation & Market Disruption, Spring 2023, 2024, 2025
 
-
+<br><br>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
