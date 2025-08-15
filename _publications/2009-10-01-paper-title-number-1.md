@@ -1,7 +1,11 @@
 ---
 title: "When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming"
+authors: "Mengjie Wang, Zhe Zhang"
+venue: "Working Paper"
+date: ""
 permalink: /publication/2009-10-01-paper-title-number-1
 ---
+
 The fast growth of the livestreaming and influencer marketing industries raises a
 research question on how streaming sponsored content affects streamers’ viewership.
 Unlike traditional media or pre-recorded social media formats, livestreaming entertain-
