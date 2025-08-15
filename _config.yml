@@ -23,9 +23,9 @@ repository               : "MengjieWang-IS/MengjieWang-IS.github.io"
 author:
   # Biographic information
   avatar           : "profile_MJ.png"
-  name             : "Mengjie (MJ) Wang 王梦婕"
+  name             : "Mengjie (MJ) Wang <br> 王梦婕"
   pronouns         : # example: "she/her"  
-  bio              : "A Ph.D. candidate in MIS at the Rady School of Management, University of California, San Diego"
+  bio              : "A Ph.D. candidate in MIS at the Rady School of Management"
   location         : #"Earth"
   employer         : "University of California, San Diego"
   uri              : # URL
