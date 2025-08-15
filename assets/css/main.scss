@@ -42,20 +42,6 @@
 ;
 
 .sidebar {
-  width: 320px;
-  max-width: 320px;
-}
-
-.page__content {
-  margin-left: 340px;
-}
-
-@media (min-width: 1024px) {
-  .sidebar {
-    width: 320px;
-    max-width: 320px;
-  }
-  .page__content {
-    margin-left: 340px;
-  }
+  width: 160px;
+  max-width: 260px;
 }
