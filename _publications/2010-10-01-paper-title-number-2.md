@@ -1,5 +1,8 @@
 ---
 title: "Collaboration Incentives: Empirical Insights for Livestreaming Platform"
+authors: "Mengjie Wang, Zhe Zhang"
+venue: "Working Paper"
+date: ""
 permalink: /publication/2010-10-01-paper-title-number-2
 ---
 
