@@ -23,7 +23,7 @@ repository               : "MengjieWang-IS/MengjieWang-IS.github.io"
 author:
   # Biographic information
   avatar           : "profile_MJ.png"
-  name             : "Mengjie (MJ) Wang <br> 王梦婕"
+  name             : "Mengjie (MJ) Wang<br><div style='text-align:center;'>王梦婕</div>"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. candidate in MIS at the Rady School of Management"
   location         : #"Earth"
