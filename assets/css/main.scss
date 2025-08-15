@@ -40,24 +40,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* ✅ Add custom CSS here, after the imports */
-
-.sidebar {
-  width: 220px;
-  max-width: 220px;
-}
-
-.page__content {
-  margin-left: 240px;
-}
-
-@media (min-width: 1024px) {
-  .sidebar {
-    width: 220px;
-    max-width: 220px;
-  }
-  .page__content {
-    margin-left: 240px;
-  }
-}
