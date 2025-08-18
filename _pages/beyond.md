@@ -1,9 +1,8 @@
 ---
 layout: single
 permalink: /beyond/
-title: ""
+title: " "
 author_profile: true
-header: false
 ---
 
 Outside of research, I enjoy keeping life balanced with hobbies that exercise both my body and imagination.
