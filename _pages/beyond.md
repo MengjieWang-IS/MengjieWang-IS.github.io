@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /beyond/
 title: "Beyond Research"
 author_profile: true
-redirect_from: 
-  - /beyond/
-  - /beyond.html
 ---
+
 
 <br>
 
