@@ -1,28 +1,13 @@
 ---
-title: "When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming"
-authors: "Mengjie Wang, Zhe Zhang"
-venue: "Working Paper"
-date: ""
+title: "Paper Title Number 1"
+collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The fast growth of the livestreaming and influencer marketing industries raises a
-research question on how streaming sponsored content affects streamers’ viewership.
-Unlike traditional media or pre-recorded social media formats, livestreaming entertain-
-ment utilizes real-time interaction between content creators and viewers. This fosters
-emotional connections that may moderate viewers’ negative responses to advertising
-content. This emotional connection is an important potential moderator to understand
-in the study of influencer marketing. We analyze high-frequency data from Twitch.tv,
-examining how transitions from organic to sponsored content affect concurrent view-
-ership. Overall results show that sponsored segments result in a 13.7% decline in
-concurrent viewership. However, this negative effect is significantly moderated by two
-novel proxies for emotional attachment. We observe that streamers who engage in
-increased viewer interaction (through the ”Just Chatting” content category), or those
-who do not solely specialize in a single game content category, experience smaller
-viewership losses. Content changes associated with sponsorship also partially explain
-the negative effect of sponsorship. We also find no evidence of negative long-term view-
-ership impacts on a streamer following sponsored sessions. This research contributes
-to the literature on ad avoidance, influencer marketing, and livestreaming entertainment
-by identifying emotional attachment as a novel moderator, particularly relevant in
-interactive media contexts. Our findings offer practical implications for both brands
-selecting streaming partners and content creators managing sponsored marketing.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
