@@ -27,7 +27,4 @@ by identifying emotional attachment as a novel moderator, particularly relevant 
 interactive media contexts. Our findings offer practical implications for both brands
 selecting streaming partners and content creators managing sponsored marketing.
 
-
 **Keywords**: Livestreaming, Influencer marketing, Sponsorship, Emotional attachment, Ad avoidance
-
-#Full draft: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202553
