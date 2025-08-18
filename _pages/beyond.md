@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /beyond/
-title: "Beyond Research"
+title: ""
 author_profile: true
 header: false
 ---
