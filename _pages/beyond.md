@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /beyond/
 title: "Beyond Research"
 author_profile: true
