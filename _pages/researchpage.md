@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming
-*Mengjie Wang, Zhe Zhang.* Major Revision at MIS Quarterly.
+*Mengjie Wang, Zhe Zhang.* Major Revision at MIS Quarterly
 
 The fast growth of the livestreaming and influencer marketing industries raises a
 research question on how streaming sponsored content affects streamers’ viewership.
@@ -32,7 +32,7 @@ selecting streaming partners and content creators managing sponsored marketing.
 <br>
 
 ### Facilitating Streamer Collaboration through Tags: Evidence from Twitch
-*Mengjie Wang, Zhe Zhang.* Data analysis and draft in progress.
+*Mengjie Wang, Zhe Zhang.* Data analysis and draft in progress
 
 The livestreaming industry has experienced rapid growth, becoming a major segment of the digital content economy. 
 Twitch, as the market leader, has introduced a series of features since 2023 designed to facilitate collaborations among streamers. 
@@ -46,7 +46,7 @@ on livestreaming and offers practical guidance for both platforms and content cr
 <br>
 
 ### Return Rate Disclosure: Empirical Insights from E-commerce Platform
-*Mengjie Wang, Zhe Zhang.* Data analysis in progress.
+*Mengjie Wang, Zhe Zhang.* Data analysis in progress
 
 
 
