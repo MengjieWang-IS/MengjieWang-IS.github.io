@@ -25,7 +25,7 @@ Research Interests
 Working Papers
 ======
 - When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming, with Zhe Zhang, *MIS Quarterly, Major Revision, preparing for 2nd round review*.
-- Collaboration Incentives: Empirical Insights from Livestreaming Platform, with Zhe Zhang, *data analysis and draft in progress*.
+- Facilitating Streamer Collaboration through Tags: Evidence from Twitch, with Zhe Zhang, *data analysis and draft in progress*.
 - Return Rate Disclosure: Empirical Insights from E-commerce Platform, with Zhe Zhang, *data analysis in progress*.
 
 <br><br>
