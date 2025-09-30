@@ -19,8 +19,8 @@ I’ve been playing League of Legends for over 13 years. These years, I mostly p
 
 <br>
 
-Script Murder
+Script Game
 ======
-Another hobby of mine is Script Murder, a social role-playing game that has become very popular among young people in China. Players dive into scripted stories, take on different characters, and work together to either solve mysteries or experience emotional journeys. Sometimes it’s about piecing together a murder case; other times, it’s about living through love, betrayal, or destiny. For me, it’s a creative escape, a way to vent emotions, and an opportunity to meet up with friends.
+Another hobby of mine is Script Game, a social role-playing game that has become very popular among young people in China. Players dive into scripted stories, take on different characters, and work together to either solve mysteries or experience emotional journeys. Sometimes it’s about piecing together a murder case; other times, it’s about storytelling and emotional arcs, living through love, betrayal, or destiny. Click [here](https://www.scriptles.com/post/what-is-a-script-game) to learn more about Script Game. For me, it’s a creative escape, a way to vent emotions, and an opportunity to meet up with friends.
 
 
