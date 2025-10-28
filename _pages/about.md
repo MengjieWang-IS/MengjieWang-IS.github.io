@@ -28,7 +28,7 @@ Research
 
 - When Viewers Stay: Emotional Attachment as a Moderator of Ad Avoidance in Livestreaming, with Zhe Zhang, *MIS Quarterly, Major Revision, preparing for 2nd round review*.
 
-- Facilitating Streamer Collaboration through Tags: Evidence from Twitch, with Zhe Zhang, *in preparation for submission.*.
+- Facilitating Streamer Collaboration through Tags: Evidence from Twitch, with Zhe Zhang, *in preparation for submission*.
 
 ### Work in Progress
 
