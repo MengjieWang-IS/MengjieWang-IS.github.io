@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /researchpage/
-title: "Research"
+title: " "
 author_profile: true
 ---
 
