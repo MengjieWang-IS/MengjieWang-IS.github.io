@@ -34,7 +34,7 @@ Research
 
 - Return Rate Disclosure: Empirical Insights from E-commerce Platform, with Zhe Zhang, *data analysis in progress*.
   
-- Understanding the Language of Attraction: A LLaMA-Based Framework for Livestreaming Viewer Analysis, *data analysis in progress*.
+- Understanding the Language of Attraction: A LLaMA-Based Framework for Livestreaming Viewer Analysis, with Jiuchen Zhang, *data analysis in progress*.
 
 <br><br>
 
