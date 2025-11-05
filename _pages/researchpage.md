@@ -59,7 +59,7 @@ Work in Progress
 <br>
   
 ### Understanding the Language of Attraction: A LLaMA-Based Framework for Livestreaming Viewer Analysis
-*Mengjie Wang.* Data analysis in progress.
+*Mengjie Wang, Jiuchen Zhang.* Data analysis in progress.
 
 
 
